@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "442208404444",
+    "firebase_url": "https://cuidapet-8e9d5.firebaseio.com",
+    "project_id": "cuidapet-8e9d5",
+    "storage_bucket": "cuidapet-8e9d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442208404444:android:a2f78b51098cfbf0308519",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.jornadagetx.cuidapet_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAflpSfjniyMmR8itD1VUanXdv-fKpDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442208404444-aintt7041c7uol1q1pu4r2di789pbcjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brasizza.marcus.blocapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442208404444:android:109617d5cc621c61308519",
+        "android_client_info": {
+          "package_name": "br.com.cuidapet.cuidapetcurso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAflpSfjniyMmR8itD1VUanXdv-fKpDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442208404444-aintt7041c7uol1q1pu4r2di789pbcjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brasizza.marcus.blocapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442208404444:android:c63a9eb82c1db370308519",
+        "android_client_info": {
+          "package_name": "com.brasizza.marcus.blocapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442208404444-q3rb2ikf3loapou2r15v85veo5o766hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brasizza.marcus.blocapp",
+            "certificate_hash": "2f3ea8928ff61dd6f747155fb3fcad4968114a1b"
+          }
+        },
+        {
+          "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAflpSfjniyMmR8itD1VUanXdv-fKpDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442208404444-aintt7041c7uol1q1pu4r2di789pbcjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brasizza.marcus.blocapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442208404444:android:cf2107df2a14bd83308519",
+        "android_client_info": {
+          "package_name": "com.brasizza.marcus.todoprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442208404444-re8co00keg5s7c37rug8jjnf5e504mbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brasizza.marcus.todoprovider",
+            "certificate_hash": "2f3ea8928ff61dd6f747155fb3fcad4968114a1b"
+          }
+        },
+        {
+          "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAflpSfjniyMmR8itD1VUanXdv-fKpDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442208404444-aintt7041c7uol1q1pu4r2di789pbcjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brasizza.marcus.blocapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442208404444:android:0ccf54455097e82b308519",
+        "android_client_info": {
+          "package_name": "com.example.remote_config_abstract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAflpSfjniyMmR8itD1VUanXdv-fKpDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442208404444-hqjrcamsljrudalfmv7rkvvgh9i901e3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442208404444-aintt7041c7uol1q1pu4r2di789pbcjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brasizza.marcus.blocapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
