@@ -1,3 +1,4 @@
+// ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:remote_config_abstract/core/config/base_config.dart';
 
@@ -17,4 +18,7 @@ class RemoteConfig implements Env {
   operator [](String key) {
     return remoteConfig.getString(key);
   }
+
+  @override
+  String toString() => 'RemoteConfig';
 }

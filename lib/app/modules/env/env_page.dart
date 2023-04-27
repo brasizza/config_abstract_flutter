@@ -11,10 +11,10 @@ class EnvPage extends StatelessWidget {
     return Column(
       mainAxisAlignment: MainAxisAlignment.start,
       children: [
-        const Padding(
-          padding: EdgeInsets.all(8.0),
+        Padding(
+          padding: const EdgeInsets.all(8.0),
           child: Text(
-            "UTILIZANDO ENV CONFIG",
+            "UTILIZANDO ENV em " + controller.config.toString(),
             style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
           ),
         ),
