@@ -22,10 +22,10 @@ class EnvPage extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-              Text('My Url:  ${controller.config.get<String>('base_url')}'),
-              Text('Can show:  ${controller.config.get<bool>('can_show')}'),
-              Text('Parameters:  ${controller.config.get<Map>('parameters')}'),
-              Text('Max per page:  ${controller.config.get<int>('max_per_page')}'),
+              Text('My Url:  ${controller.config['base_url']}'),
+              Text('Can show:  ${controller.config['can_show']}'),
+              Text('Parameters:  ${controller.config['parameters']}'),
+              Text('Max per page:  ${controller.config['max_per_page']}'),
             ],
           ),
         ),
